@@ -75,6 +75,7 @@
   <img src='https://memer-new.vercel.app/' style="height: 400px;" alt="Random Dev Meme">
 </div>
 <div align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=safkatms&icon=0&color=0" alt="Visit Count"></a>
+  <a href="https://komarev.com/ghpvc/?username=safkatms&style=flat-square&color=blue">
+    <img src="https://komarev.com/ghpvc/?username=safkatms&style=flat-square&color=blue" alt="Profile Views">
+  </a>
 </div>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
