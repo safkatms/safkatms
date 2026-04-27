@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=12&duration=4000&pause=3000&color=2d6b42&center=true&vCenter=true&width=680&height=18&lines=%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80%E2%94%80" alt="divider"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=13&duration=4000&pause=3000&color=3d7a52&center=true&vCenter=true&width=680&height=22&lines=Architecting+scalable+enterprise+systems+%7C+.NET+%C2%B7+NestJS+%C2%B7+React;Clean+architecture+%7C+REST+APIs+%7C+SQL+%7C+Docker+%7C+CI%2FCD" alt="subtitle"/>
 </div>
 
 <br/>
@@ -19,16 +19,16 @@
 <div align="center">
 
 ```
-╭─────────────────────────────────────────────────────────────────────╮
-│                                                                     │
-│   name     →   Safkat Mahmud Sakib                                  │
-│   role     →   Full Stack Developer @ ByteCode Limited              │
-│   focus    →   Enterprise Systems · Clean Arch · Scalable APIs      │
-│   stack    →   .NET · NestJS · React · SQL Server                   │
-│   based    →   Dhaka, Bangladesh                                    │
-│   status   →   ● open to collaboration                              │
-│                                                                     │
-╰─────────────────────────────────────────────────────────────────────╯
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   name     →   Safkat Mahmud Sakib                                   │
+│   role     →   Full Stack Developer @ ByteCode Limited               │
+│   focus    →   Enterprise Systems · Clean Arch · Scalable APIs       │
+│   stack    →   .NET · NestJS · React · SQL Server                    │
+│   based    →   Dhaka, Bangladesh                                     │
+│   status   →   ● open to collaboration                               │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
 ```
 
 </div>
@@ -41,11 +41,31 @@
 
 </div>
 
+<br/>
+
 ---
 
-## `$ cat tech-stack.md`
+<br/>
 
-### ◈ Languages
+<div align="center">
+
+```
+~/safkatms $ cat tech-stack.md
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+# Languages ────────────────────────────────────────────────────────
+```
+
+</div>
+
+<div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
@@ -56,7 +76,17 @@
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-### ◈ Frontend
+</div>
+
+<div align="center">
+
+```
+# Frontend ──────────────────────────────────────────────────────────
+```
+
+</div>
+
+<div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -65,7 +95,17 @@
 ![SASS](https://img.shields.io/badge/SASS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### ◈ Backend & Infra
+</div>
+
+<div align="center">
+
+```
+# Backend & Infra ───────────────────────────────────────────────────
+```
+
+</div>
+
+<div align="center">
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
@@ -75,13 +115,33 @@
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black)
 
-### ◈ Databases
+</div>
+
+<div align="center">
+
+```
+# Databases ─────────────────────────────────────────────────────────
+```
+
+</div>
+
+<div align="center">
 
 ![MS SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### ◈ Tools & Design
+</div>
+
+<div align="center">
+
+```
+# Tools & Design ────────────────────────────────────────────────────
+```
+
+</div>
+
+<div align="center">
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
@@ -93,43 +153,111 @@
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
 
+</div>
+
+<br/>
+
 ---
 
-## `$ ls expertise/`
+<br/>
+
+<div align="center">
 
 ```
-enterprise-apis/     →  REST APIs & microservices · .NET · NestJS · JWT auth · Swagger
-react-apps/          →  Scalable SPAs & dashboards · React · Next.js · Tailwind
-system-arch/         →  Legacy modernization · Docker · CI/CD · Vercel deployments
-iot-embedded/        →  Arduino · Raspberry Pi · Cisco networking
+~/safkatms $ ls expertise/ --detail
 ```
 
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│  [ backend  ]  Enterprise APIs                                       │
+│                REST · NestJS · .NET · JWT · Swagger · SQL            │
+│                                                                      │
+│  [ frontend ]  React Applications                                    │
+│                React · Next.js · Tailwind · Vite · SPAs              │
+│                                                                      │
+│  [ infra    ]  System Architecture                                   │
+│                Docker · CI/CD · Vercel · Legacy Modernization        │
+│                                                                      │
+│  [ iot      ]  Embedded & IoT                                        │
+│                Arduino · Raspberry Pi · Cisco Networking             │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br/>
+
 ---
 
-## `$ git log --stat`
+<br/>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=safkatms&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=58A96A&icon_color=58A96A&bg_color=0d1117&text_color=8b949e&ring_color=58A96A" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkatms&theme=github_dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="41%" />
+```
+~/safkatms $ git log --stat --oneline
+```
 
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=safkatms&theme=github-dark-blue&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&stroke=1a1a2e&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%" />
-
+<img src="https://github-readme-stats.vercel.app/api?username=safkatms&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A96A&icon_color=58A96A&text_color=8b949e&ring_color=58A96A" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkatms&hide_border=true&layout=compact&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="41%"/>
 </div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=safkatms&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="91%" />
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=safkatms&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 </div>
+
+<br/>
+
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=safkatms&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="91%"/>
+</div>
+
+<br/>
 
 ---
 
-## `$ ping connect`
+<br/>
+
+<div align="center">
+
+```
+~/safkatms $ ping --connect social
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+
+```
+╭──────────────────────────────────────────────────────────────────────╮
+│                                                                      │
+│   linkedin   →   linkedin.com/in/safkatms                            │
+│   discord    →   discord.gg/safkatms                                 │
+│   facebook   →   facebook.com/safkatmahmudsakib                      │
+│   instagram  →   instagram.com/safkat_mahmud_sakib                   │
+│                                                                      │
+╰──────────────────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -143,10 +271,29 @@ iot-embedded/        →  Arduino · Raspberry Pi · Cisco networking
 
 </div>
 
+<br/>
+
 ---
 
+<br/>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=safkatms&style=flat-square&color=58a96a&label=profile+views" />
-  <br/><br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=80&section=footer" width="100%" />
+
+```
+~/safkatms $ exit
+# session ended · thanks for visiting
+```
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=safkatms&style=flat-square&color=3d7a52&label=profile+views"/>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:0a1f0f,100:0d1117&height=100&section=footer" width="100%"/>
 </div>
