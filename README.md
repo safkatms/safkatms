@@ -7,10 +7,10 @@
 <h1 align="center">💫 About Me</h1>
 
 <p align="center">
-  👋 Hi, I'm <strong>Sakib</strong> — a passionate Computer Science & Engineering student at <strong>American International University-Bangladesh (AIUB)</strong>.<br>
-  I love building real-world tech solutions, learning new stacks, and contributing to innovative projects.<br>
-  Always open to collaboration, knowledge sharing, and team-based problem solving.<br><br>
-  <strong>Let's build something amazing together! 🚀</strong>
+  👋 Hi, I'm <strong>Sakib</strong> — a Full Stack Developer at <strong>ByteCode Limited</strong>.<br>
+  I build and modernize enterprise applications using .NET, NestJS, React, and SQL.<br>
+  Focused on scalable systems, performance, and clean architecture.<br><br>
+  <strong>Passionate about building efficient, real-world solutions.</strong>
 </p>
 
 ---
