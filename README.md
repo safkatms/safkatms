@@ -210,14 +210,14 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=safkatms&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=58A96A&icon_color=58A96A&text_color=8b949e&ring_color=58A96A" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=safkatms&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58A96A&icon_color=58A96A&text_color=8b949e&ring_color=58A96A" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safkatms&hide_border=true&layout=compact&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="41%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=safkatms&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
+<img src="https://streak-stats.demolab.com?user=safkatms&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 </div>
 
 <br/>
