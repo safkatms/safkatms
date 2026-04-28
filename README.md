@@ -217,13 +217,13 @@
 <br/>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=safkatms&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=safkatms&hide_border=true&ring=58A96A&fire=58A96A&currStreakLabel=58A96A&background=0d1117&sideLabels=8b949e&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" width="60%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=safkatms&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_border=true&bg_color=0d1117&title_color=58A96A&text_color=8b949e" width="91%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=safkatms&theme=github_dark" width="91%"/>
 </div>
 
 <br/>
